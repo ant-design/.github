@@ -6,4 +6,4 @@
 
 <h1 align="center">Ant Design</h1>
 
-<h2 align="center">An enterprise-class UI design language and React UI library.</h2>
+![](https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*zx7LTI_ECSAAAAAAAAAAAABkARQnAQ)
