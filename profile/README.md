@@ -16,9 +16,9 @@ On the other hand, with the trend of commercialization, more and more enterprise
 
 ## Front-end Implementation
 
-[React](http://facebook.github.io/react/) is used to encapsulate a library of components which embody our design language. We welcome the community to implement [our design system](/docs/spec/introduce) in other front-end frameworks of their choice.
+[React](http://facebook.github.io/react/) is used to encapsulate a library of components which embody our design language. We welcome the community to implement [our design system](https://ant.design/docs/spec/introduce) in other front-end frameworks of their choice.
 
-- [Ant Design of React](/docs/react/introduce)（official implementation）
+- [Ant Design of React](https://ant.design/docs/react/introduce)（official implementation）
 - [NG-ZORRO - Ant Design of Angular](http://ng.ant.design)
 - [NG-ZORRO-MOBILE - Ant Design Mobile of Angular](http://ng.mobile.ant.design)
 - [Ant Design of Vue](http://antdv.com)
