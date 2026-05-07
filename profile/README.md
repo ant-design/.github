@@ -46,7 +46,7 @@ The Ant Design organization maintains a rich ecosystem of design tools, UI libra
 - **[Ant Design](https://github.com/ant-design/ant-design)** - Enterprise-class UI design language and React component library
 - **[Ant Design Mobile](https://github.com/ant-design/ant-design-mobile)** - Mobile UI components for React
 - **[Ant Design Mini](https://github.com/ant-design/ant-design-mini)** - Components for Mini Programs
-- **[x](https://github.com/ant-design/x)** - Next-generation components for AI-powered applications
+- **[Ant Design X](https://github.com/ant-design/x)** - Next-generation components for AI-powered applications
 
 ### 🚀 Pro Solutions
 
