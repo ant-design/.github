@@ -23,11 +23,21 @@
 
 ---
 
+## 💎 Why Ant Design?
+
+**Trusted by millions of developers worldwide**, Ant Design provides a comprehensive suite of high-quality React components and design resources that help teams build beautiful, efficient enterprise applications faster.
+
+✨ **Enterprise-grade Quality** - Battle-tested in production by Alibaba, Tencent, Baidu and thousands of companies
+🎨 **Complete Design System** - Unified design language, components, icons, colors and animations
+🚀 **Maximum Productivity** - Out-of-the-box solutions that reduce development time
+🌍 **Global Reach** - Supports dozens of languages with extensive internationalization
+📱 **Multi-Platform** - One design system across web, mobile, and mini programs
+
+---
+
 ## 🌐 About
 
-The Ant Design organization is home to a comprehensive ecosystem of design tools, UI libraries, and resources for building enterprise-level applications. From design systems and component libraries to charts, icons, and color palettes, we provide everything teams need to create efficient and enjoyable user experiences.
-
-Our projects span multiple platforms and frameworks, supporting millions of developers and thousands of companies worldwide.
+The Ant Design organization maintains a rich ecosystem of design tools, UI libraries, and resources for building enterprise-level applications. From design systems and component libraries to charts, icons, and color palettes, we provide everything teams need to create efficient and enjoyable user experiences.
 
 ## 🚀 Projects & Ecosystem
 
@@ -36,49 +46,36 @@ Our projects span multiple platforms and frameworks, supporting millions of deve
 - **[Ant Design](https://github.com/ant-design/ant-design)** - Enterprise-class UI design language and React component library
 - **[Ant Design Mobile](https://github.com/ant-design/ant-design-mobile)** - Mobile UI components for React
 - **[Ant Design Mini](https://github.com/ant-design/ant-design-mini)** - Components for Mini Programs
-- **[Ant Design Mobile RN](https://github.com/ant-design/ant-design-mobile-rn)** - React Native components
+- **[x](https://github.com/ant-design/x)** - Next-generation components for AI-powered applications
 
 ### 🚀 Pro Solutions
 
 - **[Ant Design Pro](https://github.com/ant-design/ant-design-pro)** - Out-of-box UI solution for enterprise applications
 - **[Pro Components](https://github.com/ant-design/pro-components)** - Template components for enterprise scenarios
-- **[ProEditor](https://github.com/ant-design/pro-editor)** - Framework for building editors and designers
 
 ### 📊 Data Visualization
 
 - **[Ant Design Charts](https://github.com/ant-design/ant-design-charts)** - Simple and easy-to-use React chart library
 
-### 🎯 Design Tools & Resources
+### 🎯 Design Resources
 
-- **[Ant Design Icons](https://github.com/ant-design/ant-design-icons)** - Official icon library
-- **[Ant Design Colors](https://github.com/ant-design/ant-design-colors)** - Color palettes
+- **[Ant Design Icons](https://github.com/ant-design/ant-design-icons)** - Official icon library with 800+ icons
+- **[ant-design-icons-cli](https://github.com/ant-design/ant-design-icons-cli)** - CLI tool for managing custom icons
+- **[Ant Design Colors](https://github.com/ant-design/ant-design-colors)** - Official color palette system
 - **[Ant Motion](https://github.com/ant-design/ant-motion)** - Animation specification and components
-- **[Ant Design Landing](https://github.com/ant-design/ant-design-landing)** - Landing page solution
 
 ### 🛠️ Development Tools
 
-- **[antd-tools](https://github.com/ant-design/antd-tools)** - Build tools for Ant Design projects
-- **[antd-style](https://github.com/ant-design/antd-style)** - CSS-in-JS solution
-- **[Sketchy](https://github.com/ant-design/sketchy)** - Design to code conversion tools
+- **[antd-style](https://github.com/ant-design/antd-style)** - CSS-in-JS solution for Ant Design
 
 ## 🌟 Impact
 
-Our ecosystem is trusted by millions of developers and thousands of enterprises worldwide, including:
+Powering enterprise applications at scale:
 
 - **Alibaba Group** - E-commerce and cloud computing
 - **Tencent** - Social media and gaming platforms
 - **Baidu** - Search and AI services
-- **Meituan** - Local services platform
-- And many Fortune 500 companies globally
-
-## ✨ What We Offer
-
-- 🎨 **Comprehensive Design Language** - Consistent design principles across all platforms
-- ⚛️ **React Ecosystem** - High-quality components and tools for React development
-- 📱 **Cross-Platform** - Web, mobile, React Native, and mini programs
-- 📊 **Data Visualization** - Professional charts and visualization components
-- 🛠️ **Developer Experience** - TypeScript, modern tooling, and excellent documentation
-- 🌍 **Global Community** - International support and active contributors worldwide
+- And thousands of Fortune 500 companies worldwide
 
 ## 💬 Community & Support
 
@@ -86,7 +83,6 @@ Our ecosystem is trusted by millions of developers and thousands of enterprises 
 - 📖 **[Documentation](https://ant.design)** - Comprehensive guides and API references
 - 💡 **[Stack Overflow](https://stackoverflow.com/questions/tagged/antd)** - Community Q&A
 - 🐦 **[Twitter](https://twitter.com/antdesignui)** - Latest updates and announcements
-- 📝 **[Blog](https://ant.design/docs/blog)** - Design insights and release notes
 
 ## 🤝 Contributing
 
