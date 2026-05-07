@@ -27,11 +27,11 @@
 
 **Trusted by millions of developers worldwide**, Ant Design provides a comprehensive suite of high-quality React components and design resources that help teams build beautiful, efficient enterprise applications faster.
 
-✨ **Enterprise-grade Quality** - Battle-tested in production by Alibaba, Tencent, Baidu and thousands of companies
-🎨 **Complete Design System** - Unified design language, components, icons, colors and animations
-🚀 **Maximum Productivity** - Out-of-the-box solutions that reduce development time
-🌍 **Global Reach** - Supports dozens of languages with extensive internationalization
-📱 **Multi-Platform** - One design system across web, mobile, and mini programs
+- ✨ **Enterprise-grade Quality** - Battle-tested in production by Alibaba, Tencent, Baidu and thousands of companies
+- 🎨 **Complete Design System** - Unified design language, components, icons, colors and animations
+- 🚀 **Maximum Productivity** - Out-of-the-box solutions that reduce development time
+- 🌍 **Global Reach** - Supports dozens of languages with extensive internationalization
+- 📱 **Multi-Platform** - One design system across web, mobile, and mini programs
 
 ---
 
