@@ -35,9 +35,8 @@ Our projects span multiple platforms and frameworks, supporting millions of deve
 
 - **[Ant Design](https://github.com/ant-design/ant-design)** - Enterprise-class UI design language and React component library
 - **[Ant Design Mobile](https://github.com/ant-design/ant-design-mobile)** - Mobile UI components for React
-- **[Ant Design Vue](https://github.com/vueComponent/ant-design-vue)** - Vue.js implementation of Ant Design
-- **[NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd)** - Angular implementation of Ant Design
 - **[Ant Design Mini](https://github.com/ant-design/ant-design-mini)** - Components for Mini Programs
+- **[Ant Design Mobile RN](https://github.com/ant-design/ant-design-mobile-rn)** - React Native components
 
 ### 🚀 Pro Solutions
 
@@ -48,9 +47,6 @@ Our projects span multiple platforms and frameworks, supporting millions of deve
 ### 📊 Data Visualization
 
 - **[Ant Design Charts](https://github.com/ant-design/ant-design-charts)** - Simple and easy-to-use React chart library
-- **[G2](https://github.com/antvis/G2)** - A visualization grammar for creating interactive visualizations
-- **[G6](https://github.com/antvis/G6)** - Graph visualization framework
-- **[X6](https://github.com/antvis/X6)** - Diagramming library
 
 ### 🎯 Design Tools & Resources
 
@@ -78,9 +74,9 @@ Our ecosystem is trusted by millions of developers and thousands of enterprises 
 ## ✨ What We Offer
 
 - 🎨 **Comprehensive Design Language** - Consistent design principles across all platforms
-- 🌐 **Multi-Framework Support** - React, Vue, Angular, and more
-- 📱 **Cross-Platform** - Web, mobile, desktop, and mini programs
-- 📊 **Rich Visualizations** - Professional charts and data visualization tools
+- ⚛️ **React Ecosystem** - High-quality components and tools for React development
+- 📱 **Cross-Platform** - Web, mobile, React Native, and mini programs
+- 📊 **Data Visualization** - Professional charts and visualization components
 - 🛠️ **Developer Experience** - TypeScript, modern tooling, and excellent documentation
 - 🌍 **Global Community** - International support and active contributors worldwide
 
